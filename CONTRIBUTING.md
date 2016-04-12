@@ -65,6 +65,9 @@ file is set to port `5000` or you will be unable to authenticate locally with My
 
 ### Testing
 Testing is done using `capybara-poltergeist`, which requires a local install of [phantomjs](https://github.com/jonleighton/poltergeist#installing-phantomjs).
+You can run the entire test suite using:
+
+`rake`
 
 ### Required Keys
 
